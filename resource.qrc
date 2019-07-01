@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newp">
+    <file>Icon/bg4.jpg</file>
+    <file>Icon/bg2.jpg</file>
+  </qresource>
+  <qresource prefix="newp3">
+    <file>Icon/bg1.jpg</file>
+  </qresource>
+  <qresource prefix="newp2">
+    <file>Icon/bg5.jpg</file>
+    <file>Icon/icon1.jpg</file>
+  </qresource>
+</RCC>
